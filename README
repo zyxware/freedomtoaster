@@ -1,0 +1,16 @@
+This is the source code of the software running inside Freedom Toaster 
+
+See http://www.freedomtoaster.in for details
+
+
+License
+
+The code is released under GNU GPL v2 or later. Please see src/LICENSE.txt for details
+
+Credits
+
+Original toaster code
+http://cdot.senecac.on.ca/projects/toaster/
+
+Maintainer for current source
+http://www.zyxware.com
