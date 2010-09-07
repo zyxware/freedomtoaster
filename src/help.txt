@@ -1,0 +1,14 @@
+<span size="36000"><b>Seneca Freedom Toaster Help</b></span>
+
+<span size="18000">This machine will burn software on your blank CD or DVD.</span>
+
+<span size="18000">We built it to give you easy access to open source software. It is completely free and you're allowed to make as many copies as you like.</span>
+
+<span size="18000">The disk may take a while to burn (how long depends on the maximum write speed your disk supports, up to 48xCD/16xDVD). Once it's finished it will eject and you can start using it.</span>
+
+<span size="18000">The toster was built by these Seneca College students at the Linux Club: Andrew Smith, Tiago Moreira, Kubilay Dadgelon</span>
+
+<span size="18000">With help from the following departments at Seneca: ibox, the School of Computer Studies, ACS, Kevin??</span>
+
+<span size="18000">For more information, go to:
+http://cdot.senecac.on.ca/projects/toaster</span>
