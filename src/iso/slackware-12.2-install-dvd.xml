@@ -1,0 +1,14 @@
+<iso>
+<displayname>Slackware 12.2 (DVD)</displayname>
+<description>Slackware is one of the earliest free computer operating systems built on top of the Linux kernel and the GNU operating system , and is the oldest currently being maintained.[1] Slackware was created by Patrick Volkerding of Slackware Linux, Inc. in 1993.</description>
+<longdescription>
+Slackware Linux provides new and experienced users alike with a fully-featured system, equipped to serve in any capacity from desktop workstation to machine-room server. Web, ftp, and email servers are ready to go out of the box, as are a wide selection of popular desktop environments. A full range of development tools, editors, and current libraries is included for users who wish to develop or compile additional software. 
+
+Slackware's latest stable x86 release is 12.2[12] (as of 2008-12-10), which includes support for ALSA, GCC 4.2.4, Linux 2.6.27.7, KDE 3.5.10 and Xfce 4.4.3.[12]
+
+Slackware is primarily developed for the x86 architecture.
+</longdescription>
+<picture>slackware.png</picture>
+<filename>slackware-12.2-install-dvd.iso</filename>
+<type>DVD</type>
+</iso>

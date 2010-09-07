@@ -3,21 +3,23 @@ RESOLUTION = 1024,768
 
 # Directory containing the xml files describing the available isos.
 # (these can be symbolic links to another directory)
-ISOLISTDIR = '/home/toaster/src/isolist/'
+HOMEDIR = '/home/zyxware/freedomtoaster'
+
+ISOLISTDIR = HOMEDIR + '/src/isolist/'
 # Where on the filesystem the ISOs are
-ISOPATH = '/home/toaster/src/iso/'
+ISOPATH = HOMEDIR + '/src/iso/'
 
 #sym links to 12 isos to be displayed on home screen
-HOMESCREEN = '/home/toaster/src/homescreen/'
+HOMESCREEN = HOMEDIR + '/src/homescreen/'
 
 
 # Where on the filesystem the images (to be used inside buttons) are
 ISOIMAGEPATH = ISOPATH
 # The file with the help, including path
-HELPFILE = "/home/toaster/src/help.txt"
+HELPFILE = HOMEDIR + "/src/help.txt"
 
 # More stuff directory
-MORESTUFF = '/home/toaster/src/morestuff/'
+MORESTUFF = HOMEDIR + '/src/morestuff/'
 
 # Any more than this in ISOLISTDIR will be ignored
 MAXNUMISOS = 6
@@ -36,7 +38,7 @@ DEVICE = '/dev/scd0'
 CLOSEWINDOWTIMEOUT = 600000
 
 # Log file to write to, including file
-LOGFILE = '/home/toaster/src/log.txt'
+LOGFILE = HOMEDIR + '/src/log.txt'
 
 # This list is here so whomever is writing a parser for the log
 # file knows what the messages can be.

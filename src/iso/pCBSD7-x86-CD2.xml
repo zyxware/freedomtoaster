@@ -1,0 +1,20 @@
+<iso>
+<displayname>PC-BSD 7.0 (CD 2/3)</displayname>
+<description>PC-BSD is a free operating system with ease of use in mind. Like any modern system, you can listen to your favorite music, watch your movies, work with office documents and install your favorite applications with a setup wizard at a click.</description>
+<longdescription> PC-BSD is a free operating system with ease of use in mind. Like any modern system, you can listen to your favorite music, watch your movies, work with office documents and install your favorite applications with a setup wizard at a click.
+
+Some of the changes are:
+
+    * KDE 4.1
+    * Improved desktop performance with Nvidia Cards
+    * Improved NTFS write support
+    * HAL fixes and improvements
+    * Installation bugfixes
+
+This version of PC-BSD can be downloaded and installed as a fresh install or, alternatively, can be updated via the System Update tool or via a stand-alone PBI . 
+
+PC-BSD is a complete desktop operating system, which has been designed with the "casual" computer user in mind..</longdescription>
+<picture>pcbsd.png</picture>
+<filename>pCBSD7-x86-CD2.iso</filename>
+<type>CD</type>
+</iso>

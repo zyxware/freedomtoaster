@@ -1,0 +1,19 @@
+<iso>
+<displayname>PCLinuxOS 2009.1 (CD)</displayname>
+<description>
+PCLinuxOS, often abbreviated as PCLOS, is a desktop operating system. It is a free operating system for personal computers aimed at ease of use.
+</description>
+
+<longdescription>
+The precursor to PCLinuxOS was a set of RPM packages created to improve successive versions of Mandrake Linux (now Mandriva Linux). 
+
+PCLinuxOS Gnome 2008, a remastered, community edition of PCLinuxOS featuring the GNOME 2.21.2 desktop (and sporting a look similar to Microsoft's Windows Vista)
+PCLinuxOS is distributed as a Live CD, which can also be installed to a local hard disk drive. When used as a Live CD, it can work with a USB flash drive, where the user's configuration and personal data are saved. The entire CD can be copied to and run from memory (if the system has sufficient RAM) increasing speed.
+
+PCLinuxOS is also designed to be easy to remaster after installation, creating one's own personalized CD, using the mklivecd tool. A Live USB of PCLinuxOS can be created manually or with UNetbootin
+</longdescription>
+
+<picture>pclinuxos.png</picture>
+<filename>pclinuxos-2009.1.iso</filename>
+<type>CD</type>
+</iso>

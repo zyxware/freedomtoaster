@@ -1,0 +1,14 @@
+<iso>
+<displayname>Sabayon 5.1 GAMING (DVD)</displayname>
+<description>Sabayon Linux (formerly known as RR4 Linux/RR64 Linux) is a Gentoo-based operating system.</description>
+<longdescription>
+Both Sabayon and Gentoo allow users to install the base system using binary packages, but Sabayon also includes a binary package manager, and is in general more flexible towards the use of pre-compiled packages than Gentoo is. Sabayon supports the x86 and x86-64 architectures.
+
+Sabayon Linux is distributed as a Live Distro with options to install to the hard disk. A feature named "Entropy" incorporates the binary package manager through GUI program called "Spritz" or a console program called "equo" into the distribution. Many binaries have already been made available and the command "equo" for command-line interpretation of Entropy is in beta stage.
+
+Sabayon Linux is available with the KDE, Xfce and GNOME desktop environments, and Fluxbox.
+</longdescription>
+<picture>sabayon.png</picture>
+<filename>Sabayon_Linux_5.1-r1_x86_GAMING.iso</filename>
+<type>DVD</type>
+</iso>

@@ -1,0 +1,22 @@
+<iso>
+<displayname> FEL-12 Live (DVD)</displayname>
+<description>"Fedora Electronic Laboratory" provides a complete electronic laboratory setup with reliable open source design tools in order to meet one's requirements to keep one in pace with current technological race. Project management tools such as spreadsheet, gantt diagram, mindmapping tools.... are also included</description>
+
+
+<longdescription>
+Fedora Electronic Lab targets mainly the Micro-Nano Electronic Engineering field and embedded design.
+
+It introduces:
+
+A collection of Perl modules to extend Verilog and VHDL support.
+Tools for Application-Specific Integrated Circuit (ASIC) Design Flow process to the Fedora Collection.
+Extra open source standard cell libraries supporting a feature size of 0.13µm. (more than 300 MB).
+Extracted spice decks which can be simulated with gnucap/ngspice or any spice simulators.
+Interoperability between various packages in order to achieve different design flows.
+Tools for embedded design and to provide support for ARM as a secondary architecture in Fedora.(Fedora-arm)
+
+It is intended for electronic, VLSI students and hobbyists for educational purposes.</longdescription>
+<picture>fedora.png</picture>
+<filename>Fedora-12-i686-Live-FEL.iso</filename>
+<type>DVD</type>
+</iso>

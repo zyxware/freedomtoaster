@@ -1,0 +1,23 @@
+<iso>
+<displayname>OpenGEU 8.04 (CD)</displayname>
+<description>The power and flexibility of Ubuntu and Gnome. 
+The magnificence and beauty of E17. 
+Perfect and fast even for a Virtual Machine. 
+Finally a fully functional Enlightenment Desktop. 
+OpenGEU: when a Gnome reaches Enlightenment.
+</description>
+<longdescription>OpenGEU, previously known as Geubuntu, is a complete and fully functional Operative System based on the popular Linux Distribution Ubuntu. OpenGEU, a project started and designed by the Italian artist Luca D.M. (aka TheDarkMaster), is perfect for any Desktop, Laptop PC or even for a Virtual Machine. OpenGEU mixes the power and simplicity of Ubuntu and parts of the Gnome Desktop with the wonder and astonishing eye-candy of Enlightenment DR17.
+
+The CD includes the operating system, server software and applications, inluding:
+- Firefox
+- OpenOffice
+- Gaim (instant messaging)
+- Gimp (similar to photoshop)
+- Amarok (similar to Itunes)
+- Compilers, IDEs
+
+OpenGEU is designed to become a completely community based OS, with the goal of providing you with the easiest E17 Desktop ever seen in the world:</longdescription>
+<picture>opengeu.png</picture>
+<filename>opengeu-8.04.1-desktop-i386.iso</filename>
+<type>CD</type>
+</iso>

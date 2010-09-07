@@ -1,0 +1,13 @@
+<iso>
+<displayname>Mandriva Free x86 2010 (DVD)</displayname>
+<description>Mandriva Linux (formerly Mandrakelinux or Mandrake Linux) is an operating system created by Mandriva (formerly Mandrakesoft). It uses the RPM Package Manager.</description>
+<longdescription>Mandriva Linux One gives you easy and free access to the official Mandriva Linux 2010 software repositories, containing more than 20,000 packages.
+
+The product lifetime of Mandriva Linux releases is 18 months for base updates (kernel, drivers etc.) and 12 months for desktop updates (window managers, desktop environments, web browsers etc.) . Server products receive full updates for at least 24 months after their release.
+
+Mandriva Linux contains the Mandriva Control Center, which eases configuration of some settings. 
+</longdescription>
+<picture>mandriva.png</picture>
+<filename>mandriva-linux-free-2010.0-i586.iso</filename>
+<type>DVD</type>
+</iso>

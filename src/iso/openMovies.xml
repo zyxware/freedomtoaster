@@ -1,0 +1,19 @@
+<iso>
+<displayname>Open Movies (CD)</displayname>
+<description>OpenMovies</description>
+<longdescription>Open Source Films are films which are produced and distributed by using Open Source Software methodologies. Their sources are freely available and the licenses used meet the demands of the Open Source Initiative (OSI) in terms of freedom.
+
+The CD includes following Open Movies:
+- Big Buck Bunny
+- Elephants Dream
+- Trusted Computing
+- Compiz demo
+- Code Swarm (Python)
+- Free Software Song by RMS
+
+This definition is based on the definition of Open Source Software by the Open Source Initiative and the definition of Free Cultural Licenses. Films or film projects which do not meet these criteria are either not Open Source or partially Open Source.
+</longdescription>
+<picture>OpenMovies.png</picture>
+<filename>openMovies.iso</filename>
+<type>CD</type>
+</iso>

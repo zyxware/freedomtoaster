@@ -1,0 +1,16 @@
+<iso>
+<displayname>Geexbox 1.2 (CD)</displayname>
+<description>GeeXboX is a free embedded Linux distribution which aims at turning your computer into a so called HTPC (Home Theater PC) or Media Center. Being a standalone LiveCD-based distribution, it's a ready to boot operating system than works on any Pentium-class x86 computer or PowerPC Macintosh, implying no software requirement. You can even use it on a diskless computer, the whole system being loaded in RAM. 
+</description>
+
+<longdescription>
+Despite his tiny ISO image size, the distribution comes with a complete and automatic hardware detection, not requiring any driver to be added. It supports playback of nearly any kind of audio/video and image files and all known codecs and containers are shipped in, allowing playing them through various physical supports, either being CD, DVD, HDD, LAN or Internet.
+
+GeeXboX also comes with a complete toolchain that allows developers adding easily extra packages and features but that might also be used to give birth to many dedicated embedded Linux systems. 
+
+GeeXboX 1.2.1 (for x86_32, x86_64 and powerpc computers) is available right here and now! 
+</longdescription>
+<picture>geexbox.png</picture>
+<filename>geexbox-1.2.1-en.i386.iso</filename>
+<type>CD</type>
+</iso>

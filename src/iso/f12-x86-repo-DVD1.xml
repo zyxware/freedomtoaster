@@ -1,0 +1,19 @@
+<iso>
+<displayname>Fedora 12 Repo x86-64 Live (DVD1)</displayname>
+<description>Fedora is a Linux-based operating system that showcases the latest in free and open source software. Fedora is always free for anyone to use, modify, and distribute. Repository DVD Set is the complete software library of software packaged for Fedora 12 and all the others derivatives.</description>
+<longdescription>Software packages and programs are freely available for download at multiple online sites with standardized structures, called repositories. There are repositories officially sanctioned and monitored by the developer community, while other repositories are independently provided, without official sanction or supervision (and should be used with caution).
+  
+  Who uses Fedora?
+
+    * Linus Torvalds, the creator and primary maintainer of Linux does
+    * NASA systems
+    * Roadrunner, the number one Supercomputer in the world
+    * Over a hundred derivative distributions including Red Hat Enterprise Linux and OLPC
+    * Even some robots do
+    * Millions of other users 
+
+The Fedora project is sponsored by RedHat. Some of these technologies may later be integrated into Red Hat products.</longdescription>
+<picture>fedora.png</picture>
+<filename>f12-x86-repo-DVD1.iso</filename>
+<type>DVD</type>
+</iso>

@@ -1,0 +1,19 @@
+<iso>
+<displayname>Knoppix 5.1 (CD)</displayname>
+<description>Knoppix is a Live Linux CD based on Debian GNU/Linux.Knoppix is a GNU/Linux distribution that boots and runs completely from CD. It includes recent Linux software and desktop environments, with programs such as OpenOffice.org, Abiword, The Gimp, Konqueror, Mozilla, Apache, PHP, MySQL and hundreds of other quality open source programs.
+</description>
+<longdescription>Knoppix is a GNU/Linux distribution that boots and runs completely from CD. It includes recent Linux software and desktop environments, with programs such as OpenOffice.org, Abiword, The Gimp, Konqueror, Mozilla, Apache, PHP, MySQL and hundreds of other quality open source programs, automatic hardware detection, and support for many graphics cards, sound cards, SCSI and USB devices and other peripherals. KNOPPIX can be used as a productive Linux system for the desktop, educational CD, rescue system, or adapted and used as a platform for commercial software product demos. It is not necessary to install anything on a hard disk.
+
+The CD includes the operating system, server software and applications, inluding:
+- Firefox
+- OpenOffice
+- Gaim (instant messaging)
+- Gimp (similar to photoshop)
+- Amarok (similar to Itunes)
+- Compilers, IDEs
+
+The official website for Knoppix is on Klaus Knopper's website, at knopper.net/knoppix/index-en.html.</longdescription>
+<picture>knoppix.png</picture>
+<filename>knoppix_v5.3.1CD_20080326_xen3.2.1-20080519.iso</filename>
+<type>CD</type>
+</iso>

@@ -1,0 +1,14 @@
+<iso>
+<displayname>Gentoo Linux Live 2007 (CD)</displayname>
+<description>Gentoo Linux, a special flavor of Linux that can be automatically optimized and customized for just about any application or need. Extreme performance, configurability and a top-notch user and developer community are all hallmarks of the Gentoo experience. </description>
+<longdescription>Gentoo Linux, a special flavor of Linux that can be automatically optimized and customized for just about any application or need. Extreme performance, configurability and a top-notch user and developer community are all hallmarks of the Gentoo experience. 
+
+Gentoo is a free operating system based on either Linux or FreeBSD that can be automatically optimized and customized for just about any application or need. Extreme configurability, performance and a top-notch user and developer community are all hallmarks of the Gentoo experience. 
+
+Thanks to a technology called Portage, Gentoo can become an ideal secure server, development workstation, professional desktop, gaming system, embedded solution or something else -- whatever you need it to be. Because of its near-unlimited adaptability, we call Gentoo a metadistribution. 
+
+To advise on and help with Gentoo's global development, a 7-member council is elected on a yearly basis which decides on global issues, policies and advancements in the Gentoo project. </longdescription>
+<picture>gentoo.png</picture>
+<filename>gentoo-livecd-i686-installer-2007.0.iso</filename>
+<type>CD</type>
+</iso>

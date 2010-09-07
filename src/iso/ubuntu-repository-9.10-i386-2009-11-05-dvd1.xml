@@ -1,0 +1,18 @@
+<iso>
+<displayname>Ubuntu 9.10 Repository (1/7 DVD)</displayname>
+<description>The Ubuntu 9.10 Release Repository DVD Set is the complete software library of software packaged for Ubuntu 9.10 and all the others derivatives.This repository set includes everything from Karmickola, Karmickola-Security, Karmickola-Updates, and Karmickola-Backports for Main, Restricted, Universe, and Multiverse sections on - all on 7 DVDs. </description>
+<longdescription>Software packages and programs are freely available for download at multiple online sites with standardized structures, called repositories. There are repositories officially sanctioned and monitored by the Kubuntu/Ubuntu developer community, while other repositories are independently provided, without official sanction or supervision (and should be used with caution).
+
+ Types of Repositories
+
+    * There are four major package repository types in Ubuntu: 
+        * main - Supported by Canonical. This is the major part of the distribution.
+        * restricted - Software not licensed under the GPL (or similar software license), but supported by Canonical.
+        * universe - Software licensed under the GPL (or similar license) and supported by users.
+        * multiverse - Software not licensed under the GPL (or similar license), but supported by users. 
+
+Packages can be added using the normal Synaptic package manager.</longdescription>
+<picture>ubuntu.png</picture>
+<filename>ubuntu-repository-9.10-i386-2009-11-05-dvd1.iso</filename>
+<type>DVD</type>
+</iso>

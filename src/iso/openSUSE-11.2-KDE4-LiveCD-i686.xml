@@ -1,0 +1,13 @@
+<iso>
+<displayname>OpenSUSE 11.2 DVD i586 (DVD)</displayname>
+<description>The openSUSE project is a worldwide community program sponsored by Novell that promotes the use of Linux everywhere. It is best suited for use on the desktop for homework.</description>
+<longdescription>
+The 11.0 release include an improved KDE desktop experience, better synchronization with the iPod and the new Android G1 phone with an updated Banshee Media Player, and many other improvement and refinements in the openSUSE desktop. Also included are software updates including GNOME, KDE, OpenOffice.org, and Firefox
+S.u.S.E was founded in late 1992 as a UNIX consulting group, which among other things regularly released software packages that included SLS and Slackware, and printed UNIX/Linux manuals. S.u.S.E is an acronym for the German phrase "Software- und System-Entwicklung" ("Software and system development")
+
+The SUSE Linux distribution was originally a German translation of Slackware Linux. 
+The openSUSE project is a community program sponsored by Novell, AMD and IP Exchange.</longdescription>
+<picture>opensuse.png</picture>
+<filename>openSUSE-11.2-KDE4-LiveCD-i686.iso</filename>
+<type>DVD</type>
+</iso>

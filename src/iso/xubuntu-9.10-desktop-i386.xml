@@ -1,0 +1,19 @@
+<iso>
+<displayname>Xubuntu 9.10 Desktop i386 (CD)</displayname>
+<description>Kubuntu is a widely used Linux distribution predominantly targeted at desktop users. It concentrates on usability, ease of installation, and working 'out of the box'.</description>
+<longdescription>Kubuntu is a widely used Linux distribution predominantly targeted at desktop users. It concentrates on usability, ease of installation, and working 'out of the box'.
+
+The CD includes the operating system and the most common applications, such as:
+- Firefox
+- OpenOffice
+- Gaim (instant messaging)
+- Gimp (similar to photoshop)
+- Compilers, IDEs
+
+A lot of other software can be downloaded automatically from the web (using Synaptic).
+
+Kubuntu is sponsored by Canonical Ltd., a private company founded by South African entrepreneur Mark Shuttleworth.</longdescription>
+<picture>xubuntu.png</picture>
+<filename>xubuntu-9.10-desktop-i386.iso</filename>
+<type>CD</type>
+</iso>

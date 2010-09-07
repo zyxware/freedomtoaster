@@ -1,0 +1,14 @@
+<iso>
+<displayname>Shift Linux GNOME 0.6.5 (CD)</displayname>
+<description>Neowin's Shift Linux is designed to give the user an experience of being part of the Neowin community as well as having a simple, easy-to-use Live CD. Shift is free and can be freely distributed. There are no restrictions with Shift.</description>
+<longdescription>
+The current version of Shift Linux is version 0.6 with Gnome, KDE, and Lite (XFCE). The idea is to have one version of Shift Linux for computers with lower end hardware, and two versions for more robust systems.
+
+Neowin focuses its attention on advanced computer users and technology enthusiasts of all kinds, although it is composed mainly of users of the Microsoft Windows operating system. It is worth noting, however, that it has active users of Linux- and Unix-based operating systems, including Mac OS X.
+
+Shift Linux is based on Arch Linux, granting it access to Arch software and its extensive framework. 
+</longdescription>
+<picture>shiftlinux.png</picture>
+<filename>shiftLinux-Gnome-0.6.5.iso</filename>
+<type>CD</type>
+</iso>

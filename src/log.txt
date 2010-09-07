@@ -1,0 +1,212 @@
+2010/9/7/22/34/16	TOASTERSTART		
+2010/9/7/22/35/51	TOASTERSTART		
+2010/9/7/22/36/37	TOASTERSTART		
+2010/9/7/22/44/17	TOASTERSTART		
+2010/9/7/22/48/23	TOASTERSTART		
+2010/9/7/22/50/17	TOASTERSTART		
+2010/9/7/22/53/53	TOASTERSTART		
+2010/9/7/22/55/48	TOASTERSTART		
+2010/9/7/22/55/49	ISOINFO	'Debian 5.03 KDE i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/debian-503-i386-kde-CD-1.iso'
+2010/9/7/22/55/54	MORESTUFF		
+2010/9/7/22/56/0	MORESTUFF		
+2010/9/7/23/14/16	TOASTERSTART		
+2010/9/7/23/18/5	TOASTERSTART		
+2010/9/7/23/18/34	TOASTERSTART		
+2010/9/7/23/18/41	MORESTUFF		
+2010/9/7/23/18/50	ISOINFO	'Ubuntu 10.04 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/ubuntu-10.04-desktop-i386.iso'
+2010/9/7/23/19/4	MORESTUFF		
+2010/9/7/23/21/51	TOASTERSTART		
+2010/9/7/23/21/58	ISOINFO	'Debian 5.03 KDE i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/debian-503-i386-kde-CD-1.iso'
+2010/9/7/23/22/56	TOASTERSTART		
+2010/9/7/23/22/58	ISOINFO	'Debian 5.03 KDE i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/debian-503-i386-kde-CD-1.iso'
+2010/9/7/23/23/30	TOASTERSTART		
+2010/9/7/23/23/32	ISOINFO	'Debian 5.03 KDE i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/debian-503-i386-kde-CD-1.iso'
+2010/9/7/23/23/49	TOASTERSTART		
+2010/9/7/23/23/50	ISOINFO	'Ubuntu 10.04 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/ubuntu-10.04-desktop-i386.iso'
+2010/9/7/23/23/52	ISOINFO	'Debian 5.03 KDE i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/debian-503-i386-kde-CD-1.iso'
+2010/9/7/23/23/58	ISOINFO	'Debian 5.03 KDE i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/debian-503-i386-kde-CD-1.iso'
+2010/9/7/23/24/1	ISOINFO	'Debian 5.03 KDE i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/debian-503-i386-kde-CD-1.iso'
+2010/9/7/23/25/42	TOASTERSTART		
+2010/9/7/23/25/48	ISOINFO	'Debian 5.03 KDE i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/debian-503-i386-kde-CD-1.iso'
+2010/9/7/23/25/54	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/26/8	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/26/38	TOASTERSTART		
+2010/9/7/23/26/39	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/27/20	TOASTERSTART		
+2010/9/7/23/27/23	ISOINFO	'IT@School 3.8 (DVD)'	'/home/zyxware/freedomtoaster/src/iso/it-at-school-gnu-linux-3.8.iso'
+2010/9/7/23/27/35	TOASTERSTART		
+2010/9/7/23/27/39	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/29/6	TOASTERSTART		
+2010/9/7/23/31/31	TOASTERSTART		
+2010/9/7/23/31/33	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/31/38	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/32/8	TOASTERSTART		
+2010/9/7/23/32/9	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/35/24	TOASTERSTART		
+2010/9/7/23/35/26	ISOINFO	'Debian 5.03 KDE i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/debian-503-i386-kde-CD-1.iso'
+2010/9/7/23/35/35	ISOINFO	'Ubuntu 10.04 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/ubuntu-10.04-desktop-i386.iso'
+2010/9/7/23/35/48	ISOINFO	'Ubuntu 10.04 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/ubuntu-10.04-desktop-i386.iso'
+2010/9/7/23/40/1	TOASTERSTART		
+2010/9/7/23/40/6	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/40/46	MORESTUFF		
+2010/9/7/23/40/59	MORESTUFF		
+2010/9/7/23/41/24	TOASTERSTART		
+2010/9/7/23/41/25	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/41/31	WODIM: wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2010/9/7/23/41/31	WODIM: scsidev: '/dev/scd0'
+2010/9/7/23/41/31	WODIM: devname: '/dev/scd0'
+2010/9/7/23/41/31	WODIM: scsibus: -2 target: -2 lun: -2
+2010/9/7/23/41/31	WODIM: wodim: No such file or directory. 
+2010/9/7/23/41/31	WODIM: Cannot open SCSI driver!
+2010/9/7/23/41/31	WODIM: For possible targets try 'wodim --devices' or 'wodim -scanbus'.
+2010/9/7/23/41/31	WODIM: For possible transport specifiers try 'wodim dev=help'.
+2010/9/7/23/41/31	WODIM: For IDE/ATAPI devices configuration, see the file README.ATAPI.setup from
+2010/9/7/23/41/31	WODIM: the wodim documentation.
+2010/9/7/23/41/31	WODIM: TOC Type: 1 = CD-ROM
+2010/9/7/23/41/31	BURNFAILED		
+2010/9/7/23/41/39	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/41/41	WODIM: wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2010/9/7/23/41/41	WODIM: scsidev: '/dev/scd0'
+2010/9/7/23/41/41	WODIM: devname: '/dev/scd0'
+2010/9/7/23/41/41	WODIM: scsibus: -2 target: -2 lun: -2
+2010/9/7/23/41/41	WODIM: wodim: No such file or directory. 
+2010/9/7/23/41/41	WODIM: Cannot open SCSI driver!
+2010/9/7/23/41/41	WODIM: For possible targets try 'wodim --devices' or 'wodim -scanbus'.
+2010/9/7/23/41/41	WODIM: For possible transport specifiers try 'wodim dev=help'.
+2010/9/7/23/41/41	WODIM: For IDE/ATAPI devices configuration, see the file README.ATAPI.setup from
+2010/9/7/23/41/41	WODIM: the wodim documentation.
+2010/9/7/23/41/41	WODIM: TOC Type: 1 = CD-ROM
+2010/9/7/23/41/41	BURNFAILED		
+2010/9/7/23/42/46	TOASTERSTART		
+2010/9/7/23/42/48	ISOINFO	'Ubuntu 10.04 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/ubuntu-10.04-desktop-i386.iso'
+2010/9/7/23/42/54	MORESTUFF		
+2010/9/7/23/44/6	TOASTERSTART		
+2010/9/7/23/44/8	MORESTUFF		
+2010/9/7/23/44/37	ISOINFO	'Ubuntu 10.04 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/ubuntu-10.04-desktop-i386.iso'
+2010/9/7/23/46/2	TOASTERSTART		
+2010/9/7/23/46/9	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/46/22	MORESTUFF		
+2010/9/7/23/46/42	MORESTUFF		
+2010/9/7/23/47/21	TOASTERSTART		
+2010/9/7/23/47/23	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/48/40	TOASTERSTART		
+2010/9/7/23/48/42	ISOINFO	'Ubuntu 10.04 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/ubuntu-10.04-desktop-i386.iso'
+2010/9/7/23/48/52	MORESTUFF		
+2010/9/7/23/48/56	MORESTUFF		
+2010/9/7/23/49/17	ISOINFO	'Fedora 12 x86-64 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/Fedora-12-i686-Live.iso'
+2010/9/7/23/49/18	WODIM: wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2010/9/7/23/49/18	WODIM: scsidev: '/dev/scd0'
+2010/9/7/23/49/18	WODIM: devname: '/dev/scd0'
+2010/9/7/23/49/18	WODIM: scsibus: -2 target: -2 lun: -2
+2010/9/7/23/49/18	WODIM: wodim: No such file or directory. 
+2010/9/7/23/49/18	WODIM: Cannot open SCSI driver!
+2010/9/7/23/49/18	WODIM: For possible targets try 'wodim --devices' or 'wodim -scanbus'.
+2010/9/7/23/49/18	WODIM: For possible transport specifiers try 'wodim dev=help'.
+2010/9/7/23/49/18	WODIM: For IDE/ATAPI devices configuration, see the file README.ATAPI.setup from
+2010/9/7/23/49/18	WODIM: the wodim documentation.
+2010/9/7/23/49/18	WODIM: TOC Type: 1 = CD-ROM
+2010/9/7/23/49/18	BURNFAILED		
+2010/9/7/23/49/32	MORESTUFF		
+2010/9/7/23/49/43	TOASTERSTART		
+2010/9/7/23/49/44	MORESTUFF		
+2010/9/7/23/49/55	ISOINFO	'Linux Mint 8 (CD)'	'/home/zyxware/freedomtoaster/src/iso/LinuxMint-8 CD.iso'
+2010/9/7/23/50/8	MORESTUFF		
+2010/9/7/23/56/17	TOASTERSTART		
+2010/9/7/23/56/18	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/56/22	MORESTUFF		
+2010/9/7/23/56/25	MORESTUFF		
+2010/9/7/23/57/21	TOASTERSTART		
+2010/9/7/23/57/23	MORESTUFF		
+2010/9/7/23/57/27	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/59/11	TOASTERSTART		
+2010/9/7/23/59/13	MORESTUFF		
+2010/9/7/23/59/19	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/7/23/59/21	MORESTUFF		
+2010/9/8/0/0/13	TOASTERSTART		
+2010/9/8/0/0/14	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/8/0/0/17	MORESTUFF		
+2010/9/8/0/1/55	TOASTERSTART		
+2010/9/8/0/27/30	TOASTERSTART		
+2010/9/8/0/27/32	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/8/0/27/36	ISOINFO	'Ubuntu 10.04 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/ubuntu-10.04-desktop-i386.iso'
+2010/9/8/0/27/41	MORESTUFF		
+2010/9/8/0/28/1	ISOINFO	'Linux Mint 8 (CD)'	'/home/zyxware/freedomtoaster/src/iso/LinuxMint-8 CD.iso'
+2010/9/8/0/28/12	ISOINFO	'CentOS-5.4 i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/CentOS-5.4-x86_64-LiveCD.iso'
+2010/9/8/0/28/23	ISOINFO	' FEL-12 Live (DVD)'	'/home/zyxware/freedomtoaster/src/iso/Fedora-12-i686-Live-FEL.iso'
+2010/9/8/0/28/32	ISOINFO	' FEL-12 Live (DVD)'	'/home/zyxware/freedomtoaster/src/iso/Fedora-12-i686-Live-FEL.iso'
+2010/9/8/0/28/35	WODIM: wodim: Operation not permitted. Warning: Cannot raise RLIMIT_MEMLOCK limits.
+2010/9/8/0/28/35	WODIM: scsidev: '/dev/scd0'
+2010/9/8/0/28/35	WODIM: devname: '/dev/scd0'
+2010/9/8/0/28/35	WODIM: scsibus: -2 target: -2 lun: -2
+2010/9/8/0/28/35	WODIM: Error trying to open /dev/scd0 exclusively (Device or resource busy)... retrying in 1 second.
+2010/9/8/0/28/36	WODIM: Linux sg driver version: 3.5.27
+2010/9/8/0/28/36	WODIM: Wodim version: 1.1.10
+2010/9/8/0/28/36	WODIM: SCSI buffer size: 64512
+2010/9/8/0/28/43	WODIM: Beginning DMA speed test. Set CDR_NODMATEST environment variable if device
+2010/9/8/0/28/43	WODIM: communication breaks or freezes immediately after that.
+2010/9/8/0/28/43	WODIM: TOC Type: 1 = CD-ROM
+2010/9/8/0/28/43	WODIM: Device type    : Removable CD-ROM
+2010/9/8/0/28/43	WODIM: Version        : 5
+2010/9/8/0/28/43	WODIM: Response Format: 2
+2010/9/8/0/28/43	WODIM: Capabilities   : 
+2010/9/8/0/28/43	WODIM: Vendor_info    : 'HL-DT-ST'
+2010/9/8/0/28/43	WODIM: Identification : 'DVDRAM GH22NS40 '
+2010/9/8/0/28/43	WODIM: Revision       : 'NL01'
+2010/9/8/0/28/43	WODIM: Device seems to be: Generic mmc2 DVD-R/DVD-RW.
+2010/9/8/0/28/43	WODIM: Current: 0x0000 (Reserved/Unknown)
+2010/9/8/0/28/43	WODIM: Profile: 0x0012 (DVD-RAM) 
+2010/9/8/0/28/43	WODIM: Profile: 0x0011 (DVD-R sequential recording) 
+2010/9/8/0/28/43	WODIM: Profile: 0x0015 (DVD-R/DL sequential recording) 
+2010/9/8/0/28/43	WODIM: Profile: 0x0016 (DVD-R/DL layer jump recording) 
+2010/9/8/0/28/43	WODIM: Profile: 0x0014 (DVD-RW sequential recording) 
+2010/9/8/0/28/43	WODIM: Profile: 0x0013 (DVD-RW restricted overwrite) 
+2010/9/8/0/28/43	WODIM: Profile: 0x001A (DVD+RW) 
+2010/9/8/0/28/43	WODIM: Profile: 0x001B (DVD+R) 
+2010/9/8/0/28/43	WODIM: Profile: 0x002B (DVD+R/DL) 
+2010/9/8/0/28/43	WODIM: Profile: 0x0010 (DVD-ROM) 
+2010/9/8/0/28/43	WODIM: Profile: 0x0009 (CD-R) 
+2010/9/8/0/28/43	WODIM: Profile: 0x000A (CD-RW) 
+2010/9/8/0/28/43	WODIM: Profile: 0x0008 (CD-ROM) 
+2010/9/8/0/28/43	WODIM: Profile: 0x0002 (Removable disk) 
+2010/9/8/0/28/43	WODIM: Using generic SCSI-3/mmc   CD-R/CD-RW driver (mmc_cdr).
+2010/9/8/0/28/43	WODIM: Driver flags   : MMC-3 SWABAUDIO BURNFREE 
+2010/9/8/0/28/43	WODIM: Supported modes: TAO PACKET SAO SAO/R96P SAO/R96R RAW/R96R
+2010/9/8/0/28/43	WODIM: Drive buf size : 1966080 = 1920 KB
+2010/9/8/0/28/43	WODIM: Drive DMA Speed: 16800 kB/s 95x CD 12x DVD
+2010/9/8/0/28/43	WODIM: FIFO size      : 12582912 = 12288 KB
+2010/9/8/0/28/48	WODIM: Errno: 5 (Input/output error), test unit ready scsi sendcmd: no error
+2010/9/8/0/28/48	WODIM: CDB:  00 00 00 00 00 00
+2010/9/8/0/28/48	WODIM: status: 0x2 (CHECK CONDITION)
+2010/9/8/0/28/48	WODIM: Sense Bytes: 70 00 02 00 00 00 00 0A 00 00 00 00 3A 01 00 00
+2010/9/8/0/28/48	WODIM: Sense Key: 0x2 Not Ready, Segment 0
+2010/9/8/0/28/48	WODIM: Sense Code: 0x3A Qual 0x01 (medium not present - tray closed) Fru 0x0
+2010/9/8/0/28/48	WODIM: Sense flags: Blk 0 (not valid) 
+2010/9/8/0/28/48	WODIM: cmd finished after 0.013s timeout 40s
+2010/9/8/0/28/48	WODIM: wodim: No disk / Wrong disk!
+2010/9/8/0/28/51	WODIM: Track 01: data  1571 MB        
+2010/9/8/0/28/51	WODIM: Total size:     1804 MB (178:44.72) = 804354 sectors
+2010/9/8/0/28/51	WODIM: Lout start:     1804 MB (178:46/54) = 804354 sectors
+2010/9/8/0/28/51	BURNFAILED		
+2010/9/8/0/30/1	TOASTERSTART		
+2010/9/8/0/30/6	ISOINFO	'Arch Linux 2009.08 x86 (CD)'	'/home/zyxware/freedomtoaster/src/iso/archlinux_2009.08_core-i686.iso'
+2010/9/8/0/30/8	MORESTUFF		
+2010/9/8/0/30/17	ISOINFO	'CentOS-5.4 i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/CentOS-5.4-x86_64-LiveCD.iso'
+2010/9/8/0/30/33	ISOINFO	' FEL-12 Live (DVD)'	'/home/zyxware/freedomtoaster/src/iso/Fedora-12-i686-Live-FEL.iso'
+2010/9/8/0/30/42	ISOINFO	'Fedora 12 x86-64 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/Fedora-12-i686-Live.iso'
+2010/9/8/0/31/5	TOASTERSTART		
+2010/9/8/0/31/6	ISOINFO	'Debian 5.03 KDE i386 (CD)'	'/home/zyxware/freedomtoaster/src/iso/debian-503-i386-kde-CD-1.iso'
+2010/9/8/0/31/10	MORESTUFF		
+2010/9/8/0/31/19	MORESTUFF		
+2010/9/8/0/31/22	ISOINFO	'Ubuntu 10.04 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/ubuntu-10.04-desktop-i386.iso'
+2010/9/8/0/31/27	MORESTUFF		
+2010/9/8/0/31/31	ISOINFO	'Fedora 12 x86-64 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/Fedora-12-i686-Live.iso'
+2010/9/8/0/32/3	TOASTERSTART		
+2010/9/8/0/32/5	ISOINFO	'Ubuntu 10.04 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/ubuntu-10.04-desktop-i386.iso'
+2010/9/8/0/32/7	MORESTUFF		
+2010/9/8/0/32/17	ISOINFO	'Linux Mint 8 (CD)'	'/home/zyxware/freedomtoaster/src/iso/LinuxMint-8 CD.iso'
+2010/9/8/0/34/7	TOASTERSTART		
+2010/9/8/0/34/8	MORESTUFF		
+2010/9/8/0/34/16	ISOINFO	' FEL-12 Live (DVD)'	'/home/zyxware/freedomtoaster/src/iso/Fedora-12-i686-Live-FEL.iso'
+2010/9/8/0/34/49	TOASTERSTART		
+2010/9/8/0/34/51	ISOINFO	'Ubuntu 10.04 Live (CD)'	'/home/zyxware/freedomtoaster/src/iso/ubuntu-10.04-desktop-i386.iso'
+2010/9/8/0/34/53	MORESTUFF		

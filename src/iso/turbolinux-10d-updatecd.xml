@@ -1,0 +1,20 @@
+<iso>
+<displayname>Turbolinux 10 (CD)</displayname>
+<description>
+Turbolinux FUJI is the best hybrid operating system based on the powerful features of Linux, such as security, stability and strong network connectivity, as well as improved compatibilities with Microsoft Windows. 
+</description>
+
+<longdescription>
+ Turbolinux FUJI supports your Linux implementations, not only with the user friendliness, but also the manageability with effective utilization of existing resources and smooth integration to your systems, which makes this desktop OS the world standard Linux having wider popularity among business to home users seeking for good operating systems with a long-term product support.
+ 
+ The following drivers are supported: 
+Intel i915/925 chip set 
+Serial ATA 
+PCI Express 
+InfiniBand 
+FibreChannel
+</longdescription>
+<picture>turbolinux.png</picture>
+<filename>turbolinux-10d-updatecd.iso</filename>
+<type>CD</type>
+</iso>

@@ -1,0 +1,12 @@
+<iso>
+<displayname>Debian 5.03 LXDE i386 (CD)</displayname>
+<description>Debian is a free operating system (OS) for your computer. An operating system is the set of basic programs and utilities that make your computer run. Debian uses the Linux kernel (the core of an operating system), but most of the basic OS tools come from the GNU project; hence the name GNU/Linux.</description>
+<longdescription>Lenny is based on the 2.6.25 Linux kernel. For the desktop, Lenny supports both KDE 3.5.9 and GNOME 2.20.1.1. It doesn`t support, however, KDE 4.1. It also includes the most recent versions, as of July, of many popular end-user software applications. These include: Firefox 3.01, OpenOffice 2.4.1, and Evolution 2.22.3.1. 
+
+Lenny isn`t just for end-users of course. It all includes the best developer and server programs. For example, Lenny comes with glibc 2.7 and Samba 3.2.
+
+For networking, Lenny will include full support for the IPv6 networking protocol and NFSv4 (Network File System). On the server side, Lenny is also expected to have LFS (Large File Support). </longdescription>
+<picture>debian-lenny.png</picture>
+<filename>debian-503-i386-xfce+lxde-CD-1.iso</filename>
+<type>CD</type>
+</iso>

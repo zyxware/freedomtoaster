@@ -1,0 +1,21 @@
+<iso>
+<displayname>Clonezilla Live 1.2 (CD)</displayname>
+<description>Clonezilla Live is a Debian-based live CD containing Clonezilla, a partition and disk cloning software similar to Norton Ghost. It saves and restores only used blocks in hard drive. With Clonezilla, one can clone a 5 GB system to 40 clients in about 10 minutes.
+</description>
+<longdescription>
+Clonezilla, based on DRBL, Partition Image, ntfsclone, partclone, and udpcast, allows you to do bare metal backup and recovery. 
+Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (server edition). 
+Clonezilla live is suitable for single machine backup and restore. While Clonezilla SE is for massive deployment, it can clone many (40 plus!) computers simultaneously. Clonezilla saves and restores only used blocks in the harddisk. This increases the clone efficiency. At the NCHC's Classroom C, Clonezilla SE was used to clone 41 computers simultaneously. It took only about 10 minutes to clone a 5.6 GBytes system image to all 41 computers via multicasting!
+
+Features of Clonezilla
+
+    * Free (GPL) Software.
+    * Filesystem supported: ext2, ext3, reiserfs, xfs, jfs of GNU/Linux, FAT, NTFS of MS Windows, and HFS+ of Mac OS
+    * LVM2 (LVM version 1 is not) under GNU/Linux is supported.
+    * Multicast is supported in Clonezilla SE.
+
+</longdescription>
+<picture>clonezilla.png</picture>
+<filename>clonezilla-live-1.2.1-39.iso</filename>
+<type>CD</type>
+</iso>

@@ -1,0 +1,18 @@
+<iso>
+<displayname>System Rescue 1.1 (CD)</displayname>
+<description>
+SystemRescueCd is a Linux system on a bootable CD-ROM for repairing your system and your data after a crash. It also aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the partitions of the hard disk.
+</description>
+
+<longdescription>
+It contains many of system utilities (parted, partimage, fstools, ...) and basic ones (editors, Midnight Commander, network tools). It aims to be very easy to use: just boot from the CD-ROM, and you can do everything. The kernel of the system supports most important file systems (ext2/ext3, ReiserFS, XFS, JFS, VFAT, NTFS, ISO9660), and network ones (Samba and NFS). 
+
+System tools included:
+GParted GUI, Partimage, FSArchiver, File systems tools (for Linux and Windows filesystems), Ntfs3g, sfdisk, Test-disk tool, Memtest+, Network tools (Samba, NFS, ping, nslookup, ...) to backup your data across the network
+
+SystemRescueCd is based on the Gentoo Live CD.
+</longdescription>
+<picture>systemrescue.png</picture>
+<filename>systemrescuecd-x86-1.1.5.iso</filename>
+<type>CD</type>
+</iso>

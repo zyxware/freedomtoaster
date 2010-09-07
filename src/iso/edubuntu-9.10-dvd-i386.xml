@@ -1,0 +1,10 @@
+<iso>
+<displayname> Edubuntu 9.10 Live (DVD)</displayname>
+<description>Edubuntu, also known as Ubuntu Education Edition, is an official derivative of the Ubuntu operating system designed for use in classrooms and schools.</description>
+
+
+<longdescription>Edubuntu is a partner project of Ubuntu Linux, a distribution suitable for classroom use. The aim is that an educator with limited technical knowledge and skill will be able to set up a computer lab, or establish an on-line learning environment, in an hour or less, and then administer that environment without having to become a fully-fledged Linux geek.</longdescription>
+<picture>edubuntu.png</picture>
+<filename>edubuntu-9.10-dvd-i386.iso</filename>
+<type>DVD</type>
+</iso>

@@ -1,0 +1,21 @@
+<iso>
+<displayname>Gnewsense Live CD 2.1 (CD)</displayname>
+<description>gNewSense has a rich graphical user interface, a full office suite, plus web browsers, email management, instant messaging, calendaring and for developers — the full GNU developer toolchain, GNU Emacs, a variety of compilers, debuggers and more.</description>
+
+<longdescription>gNewSense has a rich graphical user interface, a full office suite, plus web browsers, email management, instant messaging, calendaring and for developers — the full GNU developer toolchain, GNU Emacs, a variety of compilers, debuggers and more.
+
+And because gNewSense is free software, you can use it without restrictive licenses, make copies for your friends, school or business, and join the gNewSense community to help build and improve the software.
+
+The CD includes the operating system, server software and applications, inluding:
+- Firefox
+- OpenOffice
+- Gaim (instant messaging)
+- Gimp (similar to photoshop)
+- Amarok (similar to Itunes)
+- Compilers, IDEs
+
+gNewSense is a project by Brian Brazil and Paul O'Malley plus contributors.</longdescription>
+<picture>gnewsense.png</picture>
+<filename>gnewsense-livecd-deltah-2.1.iso</filename>
+<type>CD</type>
+</iso>

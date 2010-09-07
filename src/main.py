@@ -28,16 +28,21 @@ class ToasterMain:
         self.window.connect("destroy", self.destroy)
         self.window.set_default_size(RESOLUTION[0], RESOLUTION[1])
 	
+
+        def disable_cursor():
+            # Make the cursor invisible
+            # Find the root gdk window and tweak its cursor.
+            gdkwin = self.window.get_root_window()
+            pixmap = gtk.gdk.Pixmap(None, 1, 1, 1)
+            color = gtk.gdk.Color()
+            cursor = gtk.gdk.Cursor(pixmap, pixmap, color, color, 0, 0)
+            gdkwin.set_cursor(cursor)
+
+
 	# We run at fullscreen
 	self.window.fullscreen()
 
-	# Make the cursor invisible
-	# Find the root gdk window and tweak its cursor.
-	gdkwin = self.window.get_root_window()
-	pixmap = gtk.gdk.Pixmap(None, 1, 1, 1)
-	color = gtk.gdk.Color()
-	cursor = gtk.gdk.Cursor(pixmap, pixmap, color, color, 0, 0)
-	gdkwin.set_cursor(cursor)
+        # disable_cursor()
 
 	#Show the window	
         self.window.show()
@@ -123,9 +128,10 @@ class ToasterMain:
         button.add(label)
         
         #get rid of the mouse cursor
-        toaster_display = gtk.gdk.display_get_default()
-        toaster_screen = toaster_display.get_default_screen()
-        toaster_display.warp_pointer(toaster_screen,-1,-1)
+        # XXX: Why multiple times ? <cherry@zyx.in>
+        # toaster_display = gtk.gdk.display_get_default()
+        # toaster_screen = toaster_display.get_default_screen()
+        # toaster_display.warp_pointer(toaster_screen,-1,-1)
         #toaster_screen.get_width()+2,toaster_screen.get_height()+2)
 
 	log.logMessage(MTOASTERSTART, "", "")
@@ -191,8 +197,14 @@ def readyToBurnScreen(button, iso):
     
     window = gtk.Window(gtk.WINDOW_TOPLEVEL)
     window.set_default_size(RESOLUTION[0], RESOLUTION[1])
+
+    # Make sure the button release event gets through
+    # This is for the "button-release-event callback below
+    window.add_events(gtk.gdk.BUTTON_RELEASE_MASK)
+
     window.show()
     window.connect("key-press-event",on_key_press)
+    window.connect("button-release-event", on_button_release)
     hbox = gtk.HBox(False, 5)
     mainvbox = gtk.VBox(False, 20)
     window.add(hbox)
@@ -303,7 +315,12 @@ def moreStuff(button):
     
     window = gtk.Window(gtk.WINDOW_TOPLEVEL)
     window.set_default_size(RESOLUTION[0], RESOLUTION[1])
+    # Make sure the button release event gets through
+    # This is for the "button-release-event callback below
+    window.add_events(gtk.gdk.BUTTON_RELEASE_MASK)
+
     window.connect("key-press-event",on_key_press)
+    window.connect("button-release-event", on_button_release)
     window.set_flags(gtk.CAN_FOCUS)
     window.show()
     
@@ -389,14 +406,23 @@ def moreStuff(button):
 
 # The callback function: 
 # focusme is the widget that will be focused
+
+# Convenience function for "abort/escape functions below"
+def abort_for_escape(window):
+    tray_close()
+   #eject()
+    window.destroy()
+
+# abort this window on "escape" keypress.
 def on_key_press(window,event):
     if gtk.gdk.keyval_name(event.keyval) == "Escape":
-	tray_close()        
-	#eject()
-        window.destroy()
-	
-        
-             
+        abort_for_escape(window)
+
+# XXX: <cherry@zyx.in> -> Blindly following the on_key_press() template here;        
+def on_button_release(window, event):
+    # Check for right click
+    if event.button == 3:
+        abort_for_escape(window)
 
 def timeoutFocus(widget, focusme):
    gobject.timeout_add(10, lambda: focusme.grab_focus())

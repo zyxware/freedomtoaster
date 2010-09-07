@@ -1,0 +1,13 @@
+<iso>
+<displayname>Arch Linux 2009.08 x86 64 (CD)</displayname>
+<description>Arch Linux (or Arch) is a Linux distribution intended to be lightweight and simple.The design approach of the development team focuses on simplicity, elegance, code correctness and minimalism."Simplicity", according to Arch, is defined as "...without unnecessary additions, modifications, or complications.." and is defined from a developer standpoint, rather than a user standpoint
+
+</description>
+<longdescription>Arch Linux is an independently developed, i686-optimised Linux distribution targeted at competent Linux users. It uses 'pacman', its home-grown package manager, to provide updates to the latest software applications with full dependency tracking. Operating on a rolling release system, Arch can be installed from a CD image or via an FTP server. The default install provides a solid base that enables users to create a custom installation. In addition, the Arch Build System (ABS) provides a way to easily build new packages, modify the configuration of stock packages, and share these packages with other users via the Arch Linux User Repository.
+
+	Inspired by CRUX, another minimalist distribution, Judd Vinet started Arch Linux in March 2002. Vinet led the project until 1 October 2007, when he stepped down due to lack of time, transferring control of the project to Aaron Griffin.[4] The Arch in Arch Linux is pronounced [ɑːrtʃ] (as in archer or parchment).
+</longdescription>
+<picture>arch-linux.png</picture>
+<filename>archlinux_2009.08_core-x86_64.iso</filename>
+<type>CD</type>
+</iso>

@@ -1,0 +1,13 @@
+<iso>
+<displayname>Pardus 2009 (CD)</displayname>
+<description>Pardus is a GNU/Linux distribution funded and developed by the Scientific and Technological Research Council of Turkey. Pardus has a range of unique features, such as Mudur, a start-up framework of Pardus to speed up the boot process, and PiSi, an efficient package management system with a user-friendly graphical interface.  </description>
+<longdescription>
+Pardus Aims
+
+    * To provide full Turkish support by making the character structure compatible to Turkish (UTF-8 compatibility) and by making all the messages and documents visible to users into Turkish.
+    * To ensure that it is an operating system which can be installed and used more easily than the existing Linux distributions and other competitive operating systems.
+    * Designing its in a modular configuration which can achieve the required flexibility and high performance with a task-based and human-focused approach rather than a tool-based and technology-based one.</longdescription>
+<picture>pardus.png</picture>
+<filename>Pardus_2009.iso</filename>
+<type>CD</type>
+</iso>

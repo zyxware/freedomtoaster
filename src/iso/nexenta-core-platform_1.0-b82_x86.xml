@@ -1,0 +1,25 @@
+<iso>
+<displayname>Nexenta Core Platform 1.0 (CD)</displayname>
+<description>The Nexenta project, land of free and open source distribution combining the OpenSolaris kernel with Ubuntu userland. </description>
+<longdescription>NCP is compiled with a minimal set of core packages, and a great way to start off your Nexenta experience.﻿
+
+    * Free and open source
+    * Ubuntu ported software and repositories
+    * Suitable for servers, with easy install CD, and just 256Mb RAM 
+
+The Nexenta project, land of free and open source distribution combining the OpenSolaris kernel with Ubuntu userland.
+
+Major Contributors
+    
+	* Nexenta Systems Inc.
+        * Stanford University, California, US. 
+
+Equipment Donations
+
+    	* Nexenta Systems Inc.
+    	* Stanford University, California, US.
+    	* Sun Microsystems Inc.</longdescription>
+<picture>nexenta.png</picture>
+<filename>nexenta-core-platform_1.0-b82_x86.iso</filename>
+<type>CD</type>
+</iso>

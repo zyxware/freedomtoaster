@@ -1,0 +1,21 @@
+<iso>
+<displayname>BOSS Live 3.0 (CD)</displayname>
+<description>BOSS (Bharat Operating System Solutions) CD pack consists of 3 CDs. The Install CD which gives you a BOSS Desktop in your system, a Live CD which allows you to try BOSS without installing on the Hard Disk and without disturbing your existing OS and the Utility CD which has some of the extra packages like OpenOffice fonts, Apache web server, scripting languages etc.
+
+</description>
+<longdescription>BOSS Live is Linux CD based on Debian GNU/Linux. BOSS LIVE CD is a GNU/Linux distribution that boots and runs completely from CD. It includes recent linux software and desktop environments.
+BOSSGNU/Linux - a key deliverable of NRCFOSS has crossed another milestone by releasing version 3.0. BOSS GNU/Linux Version 3.0 is coupled with GNOME and KDE Desktop Environment with wide Indian language support and packages, relevant for use in the Government domain. Currently BOSS GNU/Linux Desktop is available in almost all the Indian Languages such as Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Oriya, Punjabi, Sanskrit, Tamil, Telugu, Bodo, Urdu, Kashmiri, Maithili, Konkani, Manipuri , which will enable the mainly non-English literate users in the country to be exposed to ICT and to use the computer more effectively.
+
+The CD includes the operating system, server software and applications, inluding:
+- Firefox
+- OpenOffice
+- Gaim (instant messaging)
+- Gimp (similar to photoshop)
+- Amarok (similar to Itunes)
+- Compilers, IDEs
+
+BOSS (Bharat Operating System Solutions) GNU/Linux distribution developed by  C-DAC (Centre for Development of Advanced Computing) derived from Debian for enhancing the use of Free/ Open Source Software throughout India.</longdescription>
+<picture>boss.png</picture>
+<filename>boss30rc1livecd.iso</filename>
+<type>CD</type>
+</iso>

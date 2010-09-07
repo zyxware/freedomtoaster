@@ -1,0 +1,17 @@
+<iso>
+<displayname>OpenSolaris 2008 (CD)</displayname>
+<description>
+OpenSolaris is an operating system (OS), an open source project licensed under CDDL, and a community. The project's goals are innovation, collaboration, and the extension of OpenSolaris technology.
+</description>
+
+<longdescription>
+OpenSolaris is free, open source, and well-suited for desktops, laptops, servers, and data centers. The quality requirement of OpenSolaris is perhaps best stated as Production Ready All The Time.
+
+The OpenSolaris code base supports systems that use SPARC and x86 families of processor architectures: UltraSPARC, SPARC64, AMD64, Pentium, and Xeon EM64T.
+
+OpenSolaris is free to use, free to modify, and free to redistribute.
+</longdescription>
+<picture>opensolaris.png</picture>
+<filename>openSolaris-2008.0-5-Live-Install.iso</filename>
+<type>CD</type>
+</iso>

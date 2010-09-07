@@ -1,0 +1,15 @@
+<iso>
+<displayname>TinyMe 2008 (CD)</displayname>
+<description>
+TinyMe is a PCLinuxOS-based mini-distribution. It exists to ease installation of PCLinuxOS on older computers, to provide a minimal installation for developers, and to deliver a fast Linux installation for where only the bare essentials are needed.
+</description>
+
+<longdescription>
+TinyMe comes with a good selection of software to handle most of the basic computer tasks of today. It includes Abiword for word processing, Opera for Web browsing, Sylpheed for email, and GThumb digital camera support. However, there appears to be no included spreadsheet or database manager, and adding my printer required downloading CUPS.
+
+ TinyMe is comparable to distributions like Puppy, AntiX, ZenWalk, and DSL.
+</longdescription>
+<picture>tinyme.png</picture>
+<filename>TinyMe-2008.1-Droplet.i586.iso</filename>
+<type>CD</type>
+</iso>

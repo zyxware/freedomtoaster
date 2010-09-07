@@ -1,0 +1,16 @@
+<iso>
+<displayname>Free BSD 7.0 amd64 (CD 2/3)</displayname>
+<description>FreeBSD® is an advanced operating system for modern server, desktop, and embedded computer platforms. </description>
+<longdescription>FreeBSD® is an advanced operating system for modern server, desktop, and embedded computer platforms. FreeBSD's code base has undergone over thirty years of continuous development, improvement, and optimization. It is developed and maintained by a large team of individuals. FreeBSD provides advanced networking, impressive security features, and world class performance and is used by some of the world's busiest web sites and most pervasive embedded networking and storage devices.
+
+FreeBSD 7.0-RELEASE is now available for the amd64, i386, ia64, pc98, powerpc, and sparc64 architectures.
+
+FreeBSD 7.0 can be installed from bootable ISO images or over the network; the required files can be downloaded via FTP or BitTorrent as described in the sections below. While some of the smaller FTP mirrors may not carry all architectures, they will all generally contain the more common ones, such as i386 and amd64.
+
+
+
+http://www.FreeBSD.org/</longdescription>
+<picture>freebsd.png</picture>
+<filename>freebsd7.0-RELEASE-amd64-disc2.iso</filename>
+<type>CD</type>
+</iso>

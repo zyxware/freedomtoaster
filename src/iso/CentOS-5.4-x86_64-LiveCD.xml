@@ -1,0 +1,17 @@
+<iso>
+<displayname>CentOS-5.4 i386 (CD)</displayname>
+<description>CentOS is an Enterprise-class Linux Distribution derived from sources freely provided to the public by a prominent North American Enterprise Linux vendor. </description>
+<longdescription>CentOS conforms fully with the upstream vendors redistribution policy and aims to be 100% binary compatible. (CentOS mainly changes packages to remove upstream vendor branding and artwork.)  CentOS is free.
+
+CentOS is developed by a small but growing team of core developers.  In turn the core developers are supported by an active user community including system administrators, network administrators, enterprise users, managers, core Linux contributors and Linux enthusiasts from around the world.
+
+Better desktop support with compiz and AIGLX.
+
+Virtualization provided by the Xen hypervisor with Virtual Machine Manager and libvirt.
+
+Sabayon to simplify the construction of user profiles.
+</longdescription>
+<picture>centos5.2.png</picture>
+<filename>CentOS-5.4-x86_64-LiveCD.iso</filename>
+<type>CD</type>
+</iso>

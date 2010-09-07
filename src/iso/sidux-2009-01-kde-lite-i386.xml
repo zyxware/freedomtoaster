@@ -1,0 +1,15 @@
+<iso>
+<displayname>Sidux 2009 (CD)</displayname>
+<description>
+Sidux is a desktop-oriented operating system based on the "unstable" branch of Debian, which uses the codename Sid with many free and open source applications. 
+</description>
+
+<longdescription>
+The distribution consists of a Live CD (bootable CD-ROM) for i686 or x86-64 architecture and can be installed to a hard drive through a graphical installer.Once sidux is installed, it can be kept up-to-date with updates from the Debian Sid and sidux repositories.
+
+Sidux comes with a selection of programs, covering system rescue and web surfing. To mention a few: KDE / Xfce desktop, openoffice, iceweasel, amarok, digikam, gparted, gwenview, k3b, kaffeine, koffice, krita, krusader, sane, vdr, virtualbox, wireless-tools, xawtv, yakuake, ...
+</longdescription>
+<picture>sidux.png</picture>
+<filename>sidux-2009-01-kde-lite-i386.iso</filename>
+<type>CD</type>
+</iso>

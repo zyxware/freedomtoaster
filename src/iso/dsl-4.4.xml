@@ -1,0 +1,20 @@
+<iso>
+<displayname>Damn Small Linux 4.4 (CD)</displayname>
+<description>Damn Small Linux 4.4 is a Small Linux is a very versatile 50MB mini desktop oriented Linux distribution.</description>
+<longdescription>Damn Small is small enough and smart enough to do the following things:
+
+    * Boot from a business card CD as a live linux distribution (LiveCD)
+    * Boot from a USB pen drive
+    * Boot from within a host operating system (that's right, it can run *inside* Windows)
+    * Run very nicely from an IDE Compact Flash drive via a method we call "frugal install"
+    * Transform into a Debian OS with a traditional hard drive install
+    * Run light enough to power a 486DX with 16MB of Ram
+    * Run fully in RAM with as little as 128MB (you will be amazed at how fast your computer can be!)
+    * Modularly grow -- DSL is highly extendable without the need to customize
+
+
+DSL was originally developed as an experiment to see how many usable desktop applications can fit inside a 50MB live CD.</longdescription>
+<picture>dsl.png</picture>
+<filename>dsl-4.4.iso</filename>
+<type>CD</type>
+</iso>
